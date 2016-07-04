@@ -1,0 +1,5 @@
+E:\GitHub-Repository\GITLearning\GITLearning\bin\GITLearning.dll
+E:\GitHub-Repository\GITLearning\GITLearning\bin\GITLearning.pdb
+E:\GitHub-Repository\GITLearning\GITLearning\obj\Debug\GITLearning.csprojResolveAssemblyReference.cache
+E:\GitHub-Repository\GITLearning\GITLearning\obj\Debug\GITLearning.dll
+E:\GitHub-Repository\GITLearning\GITLearning\obj\Debug\GITLearning.pdb
